@@ -1,5 +1,5 @@
 # Go Fish
-A card game that uses a standard 52 card deck and can be played with 2 people or more.
+A card game that uses a standard 52 card deck and can be played with ≥ 2 people.
 
 ## Object of the game
 The goal is to win the most "books" of cards. A book is any four of a kind, such as four kings, four aces, and so on.
