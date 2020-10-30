@@ -1,0 +1,26 @@
+================================================================
+Go Fish is a game for two to four players. 
+
+Each player starts with seven cards, which dealt from a standard deck of 52 cards and the rest of the cards are for "Go Fish!". 
+
+If the players can capture sets of four cards of the same number, they win the game for that round and the highest points win the game.
+
+================================================================
+Following are the basic game play, to begin with, the first player will start by asking the second player for a card with specific number, but the number they choose must at least have one on their hand. 
+
+*The second player will need to remove the card and give it to them if they have the same number. 
+
+*However, they will say "Go Fish!", draw a new card from the deck, to the player if they do not have one. 
+
+*A player can ask for another card if they succeed in asking the card. 
+
+*They can keep asking until they told to "Go Fish!". 
+
+*Then, it will become second player's turn for asking the card.
+
+*When any players collect a set of four cards, they need to unfold the set to others, and add 1 point to them and the sets will be taken away from them. 
+
+*When there has situation like, a player do not have any cards in their hand, they need to take seven cards from the deck. 
+
+*Furthermore, the game will not be stopped until all sets are completed.
+================================================================
