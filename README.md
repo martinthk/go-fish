@@ -13,8 +13,8 @@ The player whose turn it is to play asks another player for his/her cards of a p
 1. The first player asks the second player for a card of a particular value. They must ask for a card of the same value as one of the cards in their hand.
 2. If the second player has a card of that value, they will remove it from their hand and give it to them. If they do not have one, they will tell the player to “Go Fish!”. This means the first player must take a new card from the deck.
 3. If the first player was successful in asking for a card, they can ask for another card. This continues until they are told to “Go Fish”, at which point the second player will then start the process of asking for a card.
-4. If a player gets four cards of the same value (it forms a "book") they reveal the set to the other player, score 1 point, and remove those cards from their hand.
-5. If at some point a player has no cards in their hand, they take seven new cards from the deck (or as many as left if there are less than seven).
+4. If a player gets four cards of the same value (it forms a **"book"**) they reveal the set to the other player, score 1 point, and remove those cards from their hand.
+5. If at some point a player has no cards in their hand, they take **seven new cards** from the deck (or as many as left if there are less than seven).
 6. The game continues until all sets of cards are formed. The player with the most points
 wins.
 
